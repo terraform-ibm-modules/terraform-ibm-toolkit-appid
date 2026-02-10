@@ -1,5 +1,7 @@
 # AppId terraform module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-appid](https://github.com/terraform-ibm-modules/terraform-ibm-appid) for configuring IBM Cloud App ID.
+
 Terraform module to provision an instance of AppId into an account.
 
 ## Software dependencies
